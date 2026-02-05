@@ -1,0 +1,5 @@
+Parent process: child PID = 1038
+forkChild
+forkChild.c
+forkChild.exe
+result_forkchild.txt

@@ -1,0 +1,15 @@
+  991  cd class_activity2
+  992  cd ..
+  993  cd classactivity-Thou-Laiheng/
+  994  cd class_activity2
+  995  gcc ./forkChild forkChild.c
+  996  ls
+  997  gcc ./forkchild forkChild.c
+  998  gcc forkChild.c -o forkChild
+  999  ./forkChild
+ 1000  gcc forkChild.c -o forkChild
+ 1001  ./forkChild
+ 1002  gcc forkChild.c -o forkChild
+ 1003  ./forkchild > result_forkchild.txt
+ 1004  ./forkChild > result_forkchild.txt
+ 1005  history | tail -n 15 > command_used_forkchild.txt
